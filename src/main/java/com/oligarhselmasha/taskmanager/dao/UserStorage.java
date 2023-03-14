@@ -1,6 +1,5 @@
 package com.oligarhselmasha.taskmanager.dao;
 
-import com.oligarhselmasha.taskmanager.model.Task;
 import com.oligarhselmasha.taskmanager.model.User;
 import org.springframework.stereotype.Component;
 
